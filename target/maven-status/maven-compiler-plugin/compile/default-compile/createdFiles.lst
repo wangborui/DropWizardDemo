@@ -1,0 +1,5 @@
+configuration/HelloWorldConfiguration.class
+model/Saying.class
+resources/HelloWorldResource.class
+application/HelloWorldApplication.class
+application/TemplateHealthCheck.class
